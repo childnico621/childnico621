@@ -14,7 +14,7 @@
 I'm a passionate cybersecurity enthusiast and software developer with over a decade of experience in software architecture. Currently, I'm diving deep into information security, specializing in risk analysis, vulnerability management, and secure application deployment. My goal is to build safe, scalable, and reliable systems that help businesses succeed securely.
 
 - 🌱 I’m currently focusing on **cloud security** and **cybersecurity frameworks**.
-- 💼 I work with technologies like **Azure Kubernetes Service (AKS)**, **Microsoft Purview**, and **Azure Application Gateway with WAF2**.
+- 💼 As Software Architect I work with Cloud providers like **Azure** and **AWS**.
 - 👨‍🏫 I'm pursuing a specialization in cybersecurity and constantly learning through practical labs and controlled environments.
 
 - 💬 Ask me about programming, cloud or cybersecurity in general, I am always <br> available to help and learn together.
@@ -65,7 +65,7 @@ I'm a passionate cybersecurity enthusiast and software developer with over a dec
 ![SonarQube](https://img.shields.io/badge/SonarQube-black?style=for-the-badge&logo=sonarqube&logoColor=4E9BCD)
 
 ### Stats
-![languages](https://github-readme-stats.vercel.app/api/top-langs?username=childnico621&show_icons=true&locale=en&layout=compact) ![Nick's github stats](https://github-readme-stats.vercel.app/api?username=childnico621&count_private=true&show_icons=true)  ![Nick's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=childnico621&layout=compact&count_private=true)
+![Nick's github stats](https://github-readme-stats.vercel.app/api?username=childnico621&count_private=true&show_icons=true)  ![Nick's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=childnico621&layout=compact&count_private=true)
 
 ### :link: &nbsp;Connect with me
 <a href="https://www.linkedin.com/in/nicolas-agudelo-hincapie-b93a6130"><img src="https://img.shields.io/badge/-nicolas_agudelo-blue?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
