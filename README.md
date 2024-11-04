@@ -6,7 +6,7 @@
 
 <!--Hacked-->
 <div>
-  <img align="right" width="40%" src="/assets/hacked.jpg">
+  <img align="right" width="40%" src="assets/hacked.webp">
 </div>
 
 
